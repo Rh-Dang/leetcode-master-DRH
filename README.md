@@ -213,7 +213,7 @@
 6. [栈与队列：逆波兰表达式求值](./problems/0150.逆波兰表达式求值.md)
 7. [栈与队列：滑动窗口最大值](./problems/0239.滑动窗口最大值.md)
 8. [栈与队列：前K个高频元素](./problems/0347.前K个高频元素.md)
-9。[栈与队列：字符串解码](https://leetcode.cn/problems/decode-string/)
+9. [栈与队列：字符串解码](https://leetcode.cn/problems/decode-string/)
 10. [栈与队列：总结篇！](./problems/栈与队列总结.md)
 
 ## 二叉树 
